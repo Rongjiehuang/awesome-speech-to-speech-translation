@@ -18,7 +18,7 @@ List of direct speech-to-speech translation papers. Welcome to recommend more aw
 - Textless Speech-to-Speech Translation on Real Data, NAACL 2022, [[paper]](https://arxiv.org/abs/2112.08352) 
 - Enhanced Direct Speech-to-Speech Translation Using Self-supervised Pre-training and Data Augmentation, InterSpeech-2022, [[paper]](https://arxiv.org/abs/2204.02967) 
 - Leveraging unsupervised and weakly-supervised data to improve direct speech-to-speech translation, InterSpeech-2022, [[paper]](https://arxiv.org/abs/2203.13339) 
-- TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation, Arxiv 2022, [[paper]](https://arxiv.org/abs/2205.12523) 
+- TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation, ICLR 2023, [[paper]](https://arxiv.org/abs/2205.12523) 
 - UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units, Arxiv 2022, [[paper]](https://arxiv.org/abs/2212.08055) 
 - Speech-to-Speech Translation For A Real-world Unwritten Language, Arxiv 2022, [[paper]](https://arxiv.org/abs/2211.06474) 
 - Simple and Effective Unsupervised Speech Translation, Arxiv 2022, [[paper]](https://arxiv.org/abs/2210.10191) 
